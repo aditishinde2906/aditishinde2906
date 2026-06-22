@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Boston, MA &nbsp;·&nbsp; 🎓 M.S. Project Management in Analytics, Northeastern University
+  📍 Boston, MA &nbsp;·&nbsp; 🎓 M.S. Project Management in Data Analytics, Northeastern University
 </p>
 
 <p align="center">
