@@ -73,4 +73,12 @@ I'm a Data &amp; Project Analyst who specializes in **data quality, validation, 
 
 ---
 
+### 🏅 Certifications
+
+- **[Professional Scrum Master I (PSM®)](https://www.scrum.org/user/1453399)** — Scrum.org · Aug 2024
+- **Six Sigma Yellow Belt** — 6sigmastudy · May 2026
+- **Project Management — Harvard ManageMentor** — Harvard Business Publishing · Oct 2023
+
+---
+
 <p align="center"><i>Where data quality meets project execution. 💡</i></p>
