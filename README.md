@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-I'm a Data &amp; Project Analyst who specializes in **data quality, validation, and governance** — building the pipelines and dashboards that make performance reporting trustworthy and decisions confident. I pair a Computer Science foundation with a Master's in Project Management in Analytics.
+I'm a Data &amp; Project Analyst who specializes in **data quality, validation, and governance** — building the pipelines and dashboards that make performance reporting trustworthy and decisions confident. I pair a Computer Science foundation with a Master's in Project Management in Data Analytics.
 
 - 🔭 Currently a **Project Specialist** at IST Management Services, Boston
 - 🧹 I work on **SQL/Python data pipelines, exception management, and data lineage documentation**
