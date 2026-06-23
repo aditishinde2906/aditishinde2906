@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="profile.jpg" alt="Aditi Shinde" width="180" height="180" style="border-radius:50%;" />
-</p>
-
 <h1 align="center">Hi, I'm Aditi Shinde 👋</h1>
 
 <p align="center">
